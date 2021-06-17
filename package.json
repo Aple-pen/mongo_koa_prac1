@@ -1,5 +1,11 @@
 {
   "dependencies": {
-    "koa": "^2.13.1"
-  }
+    "koa": "^2.13.1",
+    "koa-router": "^10.0.0"
+  },
+  "name": "mongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aple-pen <rubie3374@naver.com>",
+  "license": "MIT"
 }
